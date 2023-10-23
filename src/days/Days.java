@@ -14,7 +14,7 @@ import java.util.Scanner;
  * change the code to use enums which avoids String input 
  * then print the week day names. 
  *
- * @author sivagamasrinivasan
+ * @author omkishan
  */
 public class Days {
 
